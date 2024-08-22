@@ -1,0 +1,5 @@
+reference/1-romfs/*
+reference/2-casestudy/*
+
+!reference/*/.gitkeep
+!reference/*/script.sh

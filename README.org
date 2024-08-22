@@ -1,0 +1,4 @@
+#+title: Denpa Men Database Utility
+Allows for conversion from/to the Denpa Men database file format, =.bin=.
+
+* [[./source/dataset.h][File Format]]
